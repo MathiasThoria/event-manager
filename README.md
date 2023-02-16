@@ -1,2 +1,2 @@
 # event-manager
-Excersice for TOP in Ruby
+Excercise for TOP in Ruby
